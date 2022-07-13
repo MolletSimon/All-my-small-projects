@@ -1,6 +1,6 @@
 # All-my-small-projects
 Sometimes, I develop very small projects and I don't know what to do about it, so here's the list of them if you want to check out:
-Made with many techstack and ❤️
+Made with many stacks and ❤️
 
 ## WEB 
 
